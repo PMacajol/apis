@@ -1,0 +1,6 @@
+@Api_NotaCredito_HostAddress = http://localhost:5072
+
+GET {{Api_NotaCredito_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

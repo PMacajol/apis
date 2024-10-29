@@ -1,0 +1,6 @@
+@Api_EntregaPaquete_HostAddress = http://localhost:5288
+
+GET {{Api_EntregaPaquete_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

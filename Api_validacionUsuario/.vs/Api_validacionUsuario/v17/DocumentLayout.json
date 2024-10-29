@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro\\source\\repos\\Api_validacionUsuario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63E64B5D-FD3D-45CF-9E47-320019492B9B}|Api_validacionUsuario\\Api_validacionUsuario.csproj|c:\\users\\pedro\\source\\repos\\api_validacionusuario\\api_validacionusuario\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E64B5D-FD3D-45CF-9E47-320019492B9B}|Api_validacionUsuario\\Api_validacionUsuario.csproj|solutionrelative:api_validacionusuario\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E64B5D-FD3D-45CF-9E47-320019492B9B}|Api_validacionUsuario\\Api_validacionUsuario.csproj|c:\\users\\pedro\\source\\repos\\api_validacionusuario\\api_validacionusuario\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E64B5D-FD3D-45CF-9E47-320019492B9B}|Api_validacionUsuario\\Api_validacionUsuario.csproj|solutionrelative:api_validacionusuario\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E64B5D-FD3D-45CF-9E47-320019492B9B}|Api_validacionUsuario\\Api_validacionUsuario.csproj|c:\\users\\pedro\\source\\repos\\api_validacionusuario\\api_validacionusuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E64B5D-FD3D-45CF-9E47-320019492B9B}|Api_validacionUsuario\\Api_validacionUsuario.csproj|solutionrelative:api_validacionusuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E64B5D-FD3D-45CF-9E47-320019492B9B}|Api_validacionUsuario\\Api_validacionUsuario.csproj|c:\\users\\pedro\\source\\repos\\api_validacionusuario\\api_validacionusuario\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E64B5D-FD3D-45CF-9E47-320019492B9B}|Api_validacionUsuario\\Api_validacionUsuario.csproj|solutionrelative:api_validacionusuario\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E64B5D-FD3D-45CF-9E47-320019492B9B}|Api_validacionUsuario\\Api_validacionUsuario.csproj|c:\\users\\pedro\\source\\repos\\api_validacionusuario\\api_validacionusuario\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E64B5D-FD3D-45CF-9E47-320019492B9B}|Api_validacionUsuario\\Api_validacionUsuario.csproj|solutionrelative:api_validacionusuario\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E64B5D-FD3D-45CF-9E47-320019492B9B}|Api_validacionUsuario\\Api_validacionUsuario.csproj|c:\\users\\pedro\\source\\repos\\api_validacionusuario\\api_validacionusuario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63E64B5D-FD3D-45CF-9E47-320019492B9B}|Api_validacionUsuario\\Api_validacionUsuario.csproj|solutionrelative:api_validacionusuario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Api_validacionUsuario\\Api_validacionUsuario\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Api_validacionUsuario\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Api_validacionUsuario\\Api_validacionUsuario\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Api_validacionUsuario\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:22:37.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Api_validacionUsuario\\Api_validacionUsuario\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Api_validacionUsuario\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Api_validacionUsuario\\Api_validacionUsuario\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Api_validacionUsuario\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:21:59.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Api_validacionUsuario\\Api_validacionUsuario\\Program.cs",
+              "RelativeDocumentMoniker": "Api_validacionUsuario\\Program.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Api_validacionUsuario\\Api_validacionUsuario\\Program.cs",
+              "RelativeToolTip": "Api_validacionUsuario\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:20:30.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Api_validacionUsuario\\Api_validacionUsuario\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Api_validacionUsuario\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Api_validacionUsuario\\Api_validacionUsuario\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Api_validacionUsuario\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:00:49.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Api_validacionUsuario\\Api_validacionUsuario\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Api_validacionUsuario\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Api_validacionUsuario\\Api_validacionUsuario\\Models\\Usuario.cs",
+              "RelativeToolTip": "Api_validacionUsuario\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:58:48.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Api_validacionUsuario\\Api_validacionUsuario\\appsettings.json",
+              "RelativeDocumentMoniker": "Api_validacionUsuario\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Api_validacionUsuario\\Api_validacionUsuario\\appsettings.json",
+              "RelativeToolTip": "Api_validacionUsuario\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T12:57:53.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

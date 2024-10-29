@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|c:\\users\\pedro\\source\\repos\\api_cliente\\api_cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|solutionrelative:api_cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|c:\\users\\pedro\\source\\repos\\api_cliente\\api_cliente\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|solutionrelative:api_cliente\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|c:\\users\\pedro\\source\\repos\\api_cliente\\api_cliente\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|solutionrelative:api_cliente\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|c:\\users\\pedro\\source\\repos\\api_cliente\\api_cliente\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|solutionrelative:api_cliente\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|c:\\users\\pedro\\source\\repos\\api_cliente\\api_cliente\\migrations\\20241006155732_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|solutionrelative:api_cliente\\migrations\\20241006155732_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|c:\\users\\pedro\\source\\repos\\api_cliente\\api_cliente\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|solutionrelative:api_cliente\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|c:\\users\\pedro\\source\\repos\\api_cliente\\api_cliente\\api_cliente.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|solutionrelative:api_cliente\\api_cliente.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|c:\\users\\pedro\\source\\repos\\api_cliente\\api_cliente\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|solutionrelative:api_cliente\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|c:\\users\\pedro\\source\\repos\\api_cliente\\api_cliente\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFF8A990-A68F-4A7C-977B-F53882F410B8}|Api_Cliente\\Api_Cliente.csproj|solutionrelative:api_cliente\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Api_Cliente\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\Models\\Cliente.cs",
+              "RelativeToolTip": "Api_Cliente\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:49:03.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Api_Cliente\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Api_Cliente\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:50:44.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\Program.cs",
+              "RelativeDocumentMoniker": "Api_Cliente\\Program.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\Program.cs",
+              "RelativeToolTip": "Api_Cliente\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:53:28.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Api_Cliente\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Api_Cliente\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:55:06.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Api_Cliente.http",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\Api_Cliente.http",
+              "RelativeDocumentMoniker": "Api_Cliente\\Api_Cliente.http",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\Api_Cliente.http",
+              "RelativeToolTip": "Api_Cliente\\Api_Cliente.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-06T15:59:46.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Api_Cliente\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\WeatherForecast.cs",
+              "RelativeToolTip": "Api_Cliente\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:42:34.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\appsettings.json",
+              "RelativeDocumentMoniker": "Api_Cliente\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\appsettings.json",
+              "RelativeToolTip": "Api_Cliente\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T15:40:03.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241006155732_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\Migrations\\20241006155732_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Api_Cliente\\Migrations\\20241006155732_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\Migrations\\20241006155732_InitialCreate.cs",
+              "RelativeToolTip": "Api_Cliente\\Migrations\\20241006155732_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:57:33.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Api_Cliente\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Pedro\\source\\repos\\Api_Cliente\\Api_Cliente\\appsettings.Development.json",
+              "RelativeToolTip": "Api_Cliente\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T23:46:26.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
